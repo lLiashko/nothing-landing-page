@@ -2,6 +2,9 @@
   background-image: url(../images/header-bg.png);
   background-size: cover;
   background-position: center;
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
 
   &__content {
     height: 100vh;
@@ -30,14 +33,13 @@
     padding: 0 20px 40px;
 
     @include on-tablet {
-    margin: 0;
-    padding: 0 280px 65px 72px;
+      margin: 0;
+      padding: 0 280px 65px 72px;
     }
 
     @include on-desktop {
-    margin-inline: auto;
-    padding-left: 0;
+      margin-inline: auto;
+      padding-left: 0;
     }
   }
 }
-

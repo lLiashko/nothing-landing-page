@@ -1,6 +1,6 @@
 # Nothing Store Landing Page
 
-Welcome to the Nothing Store Landing Page repository! This landing page is designed to showcase the products and offerings of Nothing.
+Welcome to the Nothing Store Landing Page repository! This repository contains the source code and resources for a modern, responsive landing page designed to capture leads and provide an excellent user experience.
 
 [DEMO LINK](https://lLiashko.github.io/nothing-landing-page/)
 
@@ -8,12 +8,15 @@ The Nothing Store Landing Page is a simple yet elegant webpage designed using HT
 
 ## Features
 
-- Clean and minimalistic design
-- Responsive layout for various screen sizes
-- Interactive elements for a better user experience
+- Responsive Design: Ensures compatibility across various devices and screen sizes.
+- Mobile-First Approach: Designed with a mobile-first approach, ensuring optimal user experience on mobile devices.
+- Modern UI/UX: Uses contemporary design principles for an engaging user experience.
+- Interactive Elements: Features animations and transitions for a dynamic user interface.
+- BEM Methodology: Organized and maintainable CSS using the Block Element Modifier methodology.
 
 ## Technologies Used
 
-- HTML
-- SCSS
-- BEM (Block Element Modifier) methodology
+- HTML5: Markup language for structuring the content.
+- CSS3: Styling language for designing the page.
+- Sass: CSS preprocessor for better modularity and maintainability.
+- BEM: Block Element Modifier methodology for organizing CSS.
